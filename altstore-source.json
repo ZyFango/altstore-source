@@ -1,0 +1,19 @@
+{
+  "name": "ZyFang's Apps",
+  "identifier": "com.zyfang.altstore.source",
+  "sourceURL": "https://zyfango.github.io/altstore-source/altstore-source.json",
+  "apps": [
+    {
+      "name": "Quest Log",
+      "bundleIdentifier": "com.zyfang.lifetracker",
+      "developerName": "ZyFang",
+      "version": "1.0.0",
+      "versionDate": "2026-03-28",
+      "versionDescription": "feat: add email/password auth, iOS support, and build pipeline (Phases 7–9)",
+      "downloadURL": "https://github.com/ZyFango/altstore-source/releases/download/v1.0.0/QuestLog.ipa",
+      "localizedDescription": "A gamified task tracker styled as an RPG quest log.",
+      "iconURL": "https://zyfango.github.io/altstore-source/icon.png",
+      "size": 21445746
+    }
+  ]
+}

@@ -8,12 +8,12 @@
       "bundleIdentifier": "com.zyfang.lifetracker",
       "developerName": "ZyFang",
       "version": "1.0.0",
-      "versionDate": "2026-03-28",
-      "versionDescription": "chore: bump actions/checkout to v6 and upload-artifact to v7",
+      "versionDate": "2026-04-08",
+      "versionDescription": "fix: use python for AltStore JSON generation to handle special chars in commit messages",
       "downloadURL": "https://github.com/ZyFango/altstore-source/releases/download/v1.0.0/QuestLog.ipa",
       "localizedDescription": "A gamified task tracker styled as an RPG quest log.",
       "iconURL": "https://zyfango.github.io/altstore-source/icon.png",
-      "size": 21445746
+      "size": 21774640
     }
   ]
 }

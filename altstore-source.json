@@ -7,13 +7,13 @@
       "name": "Quest Log",
       "bundleIdentifier": "com.zyfang.lifetracker",
       "developerName": "ZyFang",
-      "version": "1.0.0",
-      "versionDate": "2026-04-15",
-      "versionDescription": "feat: iOS portrait responsiveness for header and calendar screen",
-      "downloadURL": "https://github.com/ZyFango/altstore-source/releases/download/v1.0.0/QuestLog.ipa",
+      "version": "1.0.1",
+      "versionDate": "2026-04-17",
+      "versionDescription": "chore: bump version to 1.0.1",
+      "downloadURL": "https://github.com/ZyFango/altstore-source/releases/download/v1.0.1/QuestLog.ipa",
       "localizedDescription": "A gamified task tracker styled as an RPG quest log.",
       "iconURL": "https://zyfango.github.io/altstore-source/icon.png",
-      "size": 21783149
+      "size": 21783255
     }
   ]
 }

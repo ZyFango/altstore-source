@@ -1,6 +1,6 @@
 {
-  "minimumVersion": "1.1.0",
+  "minimumVersion": "1.1.1",
   "updateUrl": "https://zyfango.github.io/altstore-source/",
-  "windowsUpdateUrl": "https://github.com/ZyFango/altstore-source/releases/download/v1.1.0/QuestLog-Setup-1.1.0.exe",
-  "releasedAt": "2026-04-24"
+  "windowsUpdateUrl": "https://github.com/ZyFango/altstore-source/releases/download/v1.1.1/QuestLog-Setup-1.1.1.exe",
+  "releasedAt": "2026-04-26"
 }
